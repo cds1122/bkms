@@ -10,7 +10,7 @@
 </#if>
 </head>
 <body>
-<h1>빠른 시작 프로젝트</h1>
+<h1>도서관리</h1>
 <div id="menu">
 <a href="${rc.contextPath}/">처음 화면</a>
 <a href="${rc.contextPath}/dice">주사위</a>
